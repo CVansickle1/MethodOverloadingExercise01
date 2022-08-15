@@ -1,0 +1,15 @@
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\bin\Debug\net6.0\MethodOverloadingExercise01.exe
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\bin\Debug\net6.0\MethodOverloadingExercise01.deps.json
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\bin\Debug\net6.0\MethodOverloadingExercise01.runtimeconfig.json
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\bin\Debug\net6.0\MethodOverloadingExercise01.dll
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\bin\Debug\net6.0\MethodOverloadingExercise01.pdb
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.csproj.AssemblyReference.cache
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.AssemblyInfoInputs.cache
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.AssemblyInfo.cs
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.csproj.CoreCompileInputs.cache
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.dll
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\refint\MethodOverloadingExercise01.dll
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.pdb
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\MethodOverloadingExercise01.genruntimeconfig.cache
+C:\Users\cojo3\source\repos\MethodOverloadingExercise01\MethodOverloadingExercise01\obj\Debug\net6.0\ref\MethodOverloadingExercise01.dll
